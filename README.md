@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mik-shell-js
 - 👀 I’m interested in UI/UX Design, Data Analytics, and AI
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning react
 - 😄 Pronouns: he/they
 
 <!---
